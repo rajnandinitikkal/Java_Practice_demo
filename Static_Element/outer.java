@@ -1,6 +1,6 @@
 package Static_Element;
 
-public class outer {
+public class Outer {
     NonStaticInner nonstaticinner = new NonStaticInner();
     private int  x=10;
 
