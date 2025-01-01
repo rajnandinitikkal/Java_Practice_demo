@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "gen",
+            "request": "launch",
+            "mainClass": "gen",
+            "projectName": "Java Demo_f1825986"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Array.Main",
