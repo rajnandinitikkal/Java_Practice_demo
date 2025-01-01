@@ -1,6 +1,6 @@
 package Types_Of_Parameter;
 
-class Data<k extends Integer ,v extends Name>{
+class Data<k ,v extends Name>{
     private k key;
     private v value;
 
