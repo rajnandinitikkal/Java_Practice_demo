@@ -1,6 +1,5 @@
 
-
-import static java.lang.Thread.sleep;
+// import static java.lang.Thread.sleep;
 
 class MyCounter extends Thread{
    private int threadNo;
