@@ -1,6 +1,6 @@
 package Multithreding.Blocking_queue_in_multithreading;
 
-import java.util.Queue;
+// import java.util.Queue;
 import java.util.concurrent.ArrayBlockingQueue;
 
 class Producer implements Runnable{
